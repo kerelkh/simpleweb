@@ -13,7 +13,7 @@
 
 ## RUN APPLICATION
 
-1. CLI (CMD) : "composer update"
+1. CLI (CMD) : "composer install"
 2. CLI (CMD) : "php artisan migrate:fresh --seed"
 3. CLI (CMD) : "php artisan serve"
 
