@@ -1,14 +1,14 @@
 ## Require to run application
 
-PHP V8
-Composer
+<p>PHP V8</p>
+<p>Composer</p>
 
 
 ## Setting
 
-- Clone project
-- Create Database Mysql
-- overwrite DB setting in .ENV
+1. Clone project
+2. Create Database Mysql
+3. overwrite DB setting in .ENV
 
 
 ## RUN APPLICATION
