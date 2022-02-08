@@ -13,8 +13,9 @@
 
 ## RUN APPLICATION
 
-1. CLI (CMD) : "php artisan migrate:fresh --seed"
-2. CLI (CMD) : "php artisan serve"
+1. CLI (CMD) : "composer update"
+2. CLI (CMD) : "php artisan migrate:fresh --seed"
+3. CLI (CMD) : "php artisan serve"
 
 
 ## OPEN BROWSER HTTP://127.0.0.1:8000/
